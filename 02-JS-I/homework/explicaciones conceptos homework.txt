@@ -1,0 +1,11 @@
+* Variables: espacio reservado en memoria para un dato, tiene nombre y puede iniciarse en algún valor.
+
+* Strings: cadena de caracteres, 'palabras'.
+
+* Funciones (argumentos, `return`): porción de código ya escrito al que se invoca para no repetir código, los argumentos son los 
+parametros o datos con los que se 'llama a la función', return es el valor o resultado que devuelve la función.
+
+* Declaraciones `if`: es una condición que si se cumple se ejecuta el código dentro del if, si no se cumple se ignora y se
+continua con la siguiente instrucción fuera del if.
+
+* Valores booleanos (`true`, `false`): es el valor resultado que toma una condición, si se cumple es true si no se cumple es false.
