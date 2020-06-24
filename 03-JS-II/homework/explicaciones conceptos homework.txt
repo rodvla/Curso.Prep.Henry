@@ -1,0 +1,12 @@
+* `for`: repetir un ciclo de instrucciones mientras una variable cumpla una condición,
+esta variable comenzara en un valor inicial e incrementará de a uno hasta que la condición
+ya no se cumple y se pare el ciclo for.
+
+* `&&`: operador lógico que vale hace valer la operación como true si y solo si las dos
+condiciones (operandos) son ambos true, en los demás casos la operación valdrá false.
+
+* `||`: operador lógico que vale hace valer la operación como true si alguna de las dos
+condiciones (operandos) son true, la operación valdrá false solo si ambos operandos valen false.
+
+* `!` : negador, para negar una condición y pasarla de true a false y viceversa. También
+se usa para comparar con el operador distinto de o estrictamente distinto de (!= o !==)
