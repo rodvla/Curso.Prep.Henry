@@ -1,0 +1,5 @@
+*Arrays o matrices: Es una colección elementos de igual o diferente tipo (numeros, string, booleans, array de arrays, etc).
+Son contenedores de almacenamiento para colecciones de datos. Construir una matriz es simple, se declara una variable con 
+notación []. Se puede dejarla vacía al declararla o ir agregando (separados por coma) tantos elementos como queramos y 
+acceder a esos elementos cuando lo deseemos consultando su índice. También existen métodos para agregar o quitar elementos
+tanto al principio como al final de la matriz como si se tratara de un stack.
