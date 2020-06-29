@@ -1,0 +1,9 @@
+* `prototype`: es el objeto por defecto del que 'heredan' propiedades y métodos todos los objetos.
+Es útil para definir métodos comunes a todas las instancias, se crean estos métodos en el prototype con la sentencia
+objeto.prototype.metodo = function () {...}
+
+* _Constructors_ (de Clases): hay tres formas de construir una clase:
+1_ a traves de una function donde asigno propiedades y metodos (mas las del proto si quiero) y el comando new.
+2_ a traves de var obj= Object.create(obj) donde obj queda vacío y las propiedades de obj2 quedan en el proto de obj.
+3_ notación ES6 similar a java, donde cada class tiene su constructor y metodos y heredan con el comando extends 
+constructores y metodos de sus clases'padres'. 
