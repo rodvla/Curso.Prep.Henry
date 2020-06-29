@@ -9,4 +9,4 @@ cual se vuelve un metodo para ese objeto.
 propiedad en cada iteración a una variable que al final apuntará a la última propiedad del objeto. 
 
 * Notación de puntos vs notación de corchetes: son para acceder a los valores de las propiedades o bien para asignarles un 
-valor. Para acceder al valor de una propiedad en un objeto se escribe objeto.propiedad ó objeto['propiedad']
+valor. Para acceder al valor de una propiedad en un objeto se escribe objeto.propiedad ó objeto['propiedad'].
