@@ -1,0 +1,12 @@
+* Objetos : son colecciones de pares 'clave.valor' o colecciones de propiedades que tienen un nombre y un valor o valores.
+
+* Propiedades: es el par clave.valor de un objeto, tiene un nombre y un valor o valores.
+
+* Métodos: es cuando el valor de una propiedad se obtiene mediante la llamada a una función escrita en el mismo objeto, la
+cual se vuelve un metodo para ese objeto.
+
+* Bucle `for…in`: es un bucle que va iterando sobre cada una de las propiedades de un objeto 'asignando' el nombre de cada 
+propiedad en cada iteración a una variable que al final apuntará a la última propiedad del objeto. 
+
+* Notación de puntos vs notación de corchetes: son para acceder a los valores de las propiedades o bien para asignarles un 
+valor. Para acceder al valor de una propiedad en un objeto se escribe objeto.propiedad ó objeto['propiedad']
